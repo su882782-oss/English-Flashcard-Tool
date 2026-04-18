@@ -1,0 +1,6 @@
+{
+  "name": "VocabFlip - English Flashcard Tool",
+  "description": "A modern, interactive English vocabulary flashcard tool with 3D flip animations and JSON-based word management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
